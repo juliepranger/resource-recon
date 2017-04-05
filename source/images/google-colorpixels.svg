@@ -1,0 +1,25 @@
+<svg id="_50_google-colorpixels.svg" data-name="50% google-colorpixels.svg" xmlns="http://www.w3.org/2000/svg" width="69.5" height="2" viewBox="0 0 139 4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #61a6f2;
+      }
+
+      .cls-2 {
+        fill: #d16153;
+      }
+
+      .cls-3 {
+        fill: #f2d945;
+      }
+
+      .cls-4 {
+        fill: #9dc051;
+      }
+    </style>
+  </defs>
+  <rect id="blue_pixel" data-name="blue pixel" class="cls-1" width="34" height="4"/>
+  <rect id="red_pixel" data-name="red pixel" class="cls-2" x="34" width="35" height="4"/>
+  <rect id="yellow_pixel" data-name="yellow pixel" class="cls-3" x="69" width="35" height="4"/>
+  <rect id="green_pixel" data-name="green pixel" class="cls-4" x="104" width="35" height="4"/>
+</svg>

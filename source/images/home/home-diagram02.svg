@@ -1,0 +1,72 @@
+<svg id="home_diagram02_2x.svg_50_home_diagram02.svg" data-name="home_diagram02_2x.svg, 50% home_diagram02.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="912.5" height="155" viewBox="0 0 1825 310">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cad8dc;
+        opacity: 0.5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ffb74d;
+      }
+
+      .cls-3 {
+        fill: #ffd600;
+      }
+
+      .cls-4 {
+        filter: url(#filter);
+      }
+
+      .cls-5 {
+        fill: #ebeff1;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#cad8dc"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="read_bubble" data-name="read bubble">
+    <path id="phone_icon_17" data-name="phone icon 17" class="cls-1" d="M1965.27,1982h135.8a13.934,13.934,0,0,1,13.93,13.93v282.14a13.934,13.934,0,0,1-13.93,13.93h-135.8a13.926,13.926,0,0,1-13.92-13.93V1995.93A13.926,13.926,0,0,1,1965.27,1982Zm0.01,34.84h135.78v236.82H1965.28V2016.84Zm52.22-20.91h34.82v10.45H2017.5v-10.45Zm-13.92,271.69h62.67v10.45h-62.67v-10.45Z" transform="translate(-290 -1982)"/>
+    <path id="Shape_28_copy_2" data-name="Shape 28 copy 2" class="cls-2" d="M2023.79,2158.12l-18.48-18.97-6.3,6.41,24.78,25.43L2077,2116.4l-6.25-6.42Z" transform="translate(-290 -1982)"/>
+  </g>
+  <g id="video_bubble" data-name="video bubble">
+    <path id="phone_icon_16" data-name="phone icon 16" class="cls-1" d="M1681.69,2023.78h141.72a4,4,0,0,1,4,4V2288a4,4,0,0,1-4,4H1681.69a4,4,0,0,1-4-4V2027.78A4,4,0,0,1,1681.69,2023.78Zm9.93,41.81H1813.5v202.04H1691.62V2065.59Zm97.49-31.34a10.45,10.45,0,1,1-10.45,10.45A10.443,10.443,0,0,1,1789.11,2034.25Zm-52.2,6.97h27.81v10.41h-27.81v-10.41Z" transform="translate(-290 -1982)"/>
+    <path class="cls-3" d="M1725.76,2185.51v-8.87h8.8v8.87h35.21v-8.87h8.8v8.87h8.81v-79.86h-8.81v8.87h-8.8v-8.87h-35.21v8.87h-8.8v-8.87h-8.81v79.86h8.81Zm44.01-62.11h8.8v8.87h-8.8v-8.87Zm0,17.74h8.8v8.88h-8.8v-8.88Zm0,17.75h8.8v8.88h-8.8v-8.88Zm-44.01-35.49h8.8v8.87h-8.8v-8.87Zm0,17.74h8.8v8.88h-8.8v-8.88Zm0,17.75h8.8v8.88h-8.8v-8.88Z" transform="translate(-290 -1982)"/>
+  </g>
+  <g id="location_bubble" data-name="location bubble">
+    <path id="phone_icon_14" data-name="phone icon 14" class="cls-1" d="M1554.31,1982v310H1390.65V1982h163.66Zm-149.72,13.91h135.79v271.72H1404.59V1995.91Z" transform="translate(-290 -1982)"/>
+    <path class="cls-2" d="M1471.46,2097.92a33.041,33.041,0,0,0-33.07,33.06c0,24.8,33.07,61.4,33.07,61.4s33.07-36.6,33.07-61.4A33.047,33.047,0,0,0,1471.46,2097.92Zm0,44.87a11.805,11.805,0,1,1,11.81-11.81A11.813,11.813,0,0,1,1471.46,2142.79Z" transform="translate(-290 -1982)"/>
+  </g>
+  <g id="emoji_bubble" data-name="emoji bubble">
+    <path id="phone_icon_12" data-name="phone icon 12" class="cls-1" d="M1266.7,1995.93v282.14a13.928,13.928,0,0,1-13.93,13.93H1130.9a13.926,13.926,0,0,1-13.92-13.93V1995.93H1266.7Zm-135.79,34.82h121.87v222.91H1130.91V2030.75Zm45.26-20.88h27.85v10.44h-27.85v-10.44Z" transform="translate(-290 -1982)"/>
+    <path class="cls-3" d="M1200.17,2163.41a16,16,0,0,1-19.25,0,1.785,1.785,0,1,0-2.19,2.82,19.1,19.1,0,0,0,11.81,3.98,19.472,19.472,0,0,0,11.85-3.94,1.777,1.777,0,0,0,.32-2.51A1.816,1.816,0,0,0,1200.17,2163.41Zm-22.15-20.04a3.575,3.575,0,1,1-3.58,3.58A3.583,3.583,0,0,1,1178.02,2143.37Zm12.52-41.15a42.94,42.94,0,1,0,42.95,42.94A42.927,42.927,0,0,0,1190.54,2102.22Zm28.49,53.03c-3.9,13.38-15.28,23.11-28.77,23.11-13.53,0-24.91-9.73-28.78-23.15-4.26-.39-7.62-4.22-7.62-9.02a8.832,8.832,0,0,1,7.05-8.94c7.48-5.23,13.6-12.49,14.64-18.07v-0.04c4.83,9.41,22.55,18.57,42.34,18.11l1.07-.11c4.58,0,8.27,4.08,8.27,9.09C1227.23,2151.17,1223.58,2155.21,1219.03,2155.25Zm-15.96-11.88a3.575,3.575,0,1,1-3.58,3.58A3.576,3.576,0,0,1,1203.07,2143.37Z" transform="translate(-290 -1982)"/>
+  </g>
+  <g id="friends_bubble" data-name="friends bubble">
+    <path id="phone_icon_10" data-name="phone icon 10" class="cls-1" d="M881.038,2013.35h69.64c26.558,0,41.784,16.69,41.784,24.38v229.89c0,7.69-14.193,24.38-41.784,24.38h-69.64c-29.509,0-41.784-16.69-41.784-24.38V2037.73C839.254,2030.04,857.572,2013.35,881.038,2013.35Zm-27.85,41.81H978.563v198.5H853.188v-198.5Zm66.156-31.38a10.47,10.47,0,1,1-10.438,10.47A10.455,10.455,0,0,1,919.344,2023.78Z" transform="translate(-290 -1982)"/>
+    <path class="cls-2" d="M956.98,2133.19H952.1v7.29h-7.313v4.85H952.1v7.28h4.876v-7.28h7.313v-4.85H956.98v-7.29Z" transform="translate(-290 -1982)"/>
+    <path id="Shape_12_copy_3" data-name="Shape 12 copy 3" class="cls-2" d="M926.606,2107.38H876.162a7.2,7.2,0,0,0-7.206,7.2v50.37a7.2,7.2,0,0,0,7.206,7.2h14.413l10.809,10.79,10.81-10.79h14.412a7.2,7.2,0,0,0,7.206-7.2v-50.37A7.2,7.2,0,0,0,926.606,2107.38Zm-25.222,11.87a9.715,9.715,0,1,1-9.728,9.72A9.732,9.732,0,0,1,901.384,2119.25ZM923,2157.75H879.766v-3.23c0-7.2,14.412-11.16,21.618-11.16S923,2147.32,923,2154.52v3.23Z" transform="translate(-290 -1982)"/>
+  </g>
+  <g id="photo_bubble" data-name="photo bubble">
+    <path id="phone_icon_8" data-name="phone icon 8" class="cls-1" d="M568.5,2034.25H710.219a4,4,0,0,1,4,4V2288a4,4,0,0,1-4,4H568.5a4,4,0,0,1-4-4V2038.25A4,4,0,0,1,568.5,2034.25Zm9.938,31.34H700.312v188.07H578.438V2065.59Zm45.281,202.04h31.312v10.46H623.719v-10.46Zm38.276-.01h31.338v10.45H662v-10.45Zm-76.6,0h31.337v10.45H585.391v-10.45Z" transform="translate(-290 -1982)"/>
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" x="307" y="132" width="82" height="64" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAgCAMAAAC4saEMAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABZVBMVEUAAAD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gD/1gAAAABHAnSNAAAAdXRSTlMAC6nv8eyaAa6T/sXGx7u4w/Po9rnE4fJ1zdSYDNcDgz295A3I1eMkJXzW2FuwqjSIO6v7GfAEn/0wfhYdaCor3eWMooHmWqg1Ri30vJezlI2bWK9Hy8K2TYBvRab4wAjepPz55/qhiW5mrWHQZ/fB01HtoAVhslVvAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAYVJREFUOMuN1GdTwkAQBuAVEVF6kyZ2LCCiWECx94JYEOwgiqhYsO3/9+4SmBCPwPsp5cnc5mb3oEXVqlZOm6YdaLTYOB1MdqJapzcYDDqjyWzgRK+zoJVJG9pBOQ7sYss70cjuXW6Pt5sr9ejr6e2jsp/eemk9A4M8OYR+GMYRUY4KpY/xZQBUGBTluCBD9eQEoijDgpyUgKmwREbQUqnTTuH0jETibI10VuRc1BbTzUsgWW+BKwHii9Lilugay3xZSZxu1Qore1VZWn2kljXhD9eVpAoxChuV3gjXl5v0vbvaRVtM+sj3crktbziNIHfkcvd/b+7J5T7dvPjBf5kAc60M4CGAj9PvSZk8Is+OT3iToa2Vp/VnKCWRCThTmLY0ZKq7dA4Xl1f14romMgg3RN5iNqc4cLk03kGeyHt8KFiVUngkskjkUxMnwzNEiYSXiKkUEVIKpaoJJcWYSq8Ab1Q2k3fED3ZR9GRYyrxky45PUkGMya8mas2LE+tvcDJ+//z+AV+LA/XAoAziAAAAAElFTkSuQmCC"/>
+  </g>
+  <g id="text_bubble" data-name="text bubble">
+    <path id="phone_icon_7" data-name="phone icon 7" class="cls-1" d="M439.726,1995.93v282.14A13.931,13.931,0,0,1,425.8,2292H303.928A13.931,13.931,0,0,1,290,2278.07V1995.93H439.726Zm-135.789,34.82H425.812v222.91H303.937V2030.75Zm45.257-20.88H377.05v10.44H349.194v-10.44Z" transform="translate(-290 -1982)"/>
+    <path class="cls-2" d="M376.2,2164.79H316.624v7.85H376.2v-7.85Zm35.747-31.41H316.624v7.85h95.324v-7.85Zm-95.324,23.55h95.324v-7.85H316.624v7.85Zm0-39.25v7.85h95.324v-7.85H316.624Z" transform="translate(-290 -1982)"/>
+  </g>
+  <g id="dots" class="cls-4">
+    <path class="cls-5" d="M1846.14,2146.06a8.661,8.661,0,1,1,8.65,8.5A8.635,8.635,0,0,1,1846.14,2146.06Zm34.65-.07a8.661,8.661,0,1,1,8.64,8.5A8.626,8.626,0,0,1,1880.79,2145.99Zm34.64-.07a8.661,8.661,0,1,1,8.64,8.5A8.628,8.628,0,0,1,1915.43,2145.92Z" transform="translate(-290 -1982)"/>
+    <path class="cls-5" d="M1572.2,2146.06a8.661,8.661,0,1,1,8.64,8.5A8.635,8.635,0,0,1,1572.2,2146.06Zm34.64-.07a8.666,8.666,0,1,1,8.65,8.5A8.635,8.635,0,0,1,1606.84,2145.99Zm34.65-.07a8.661,8.661,0,1,1,8.64,8.5A8.628,8.628,0,0,1,1641.49,2145.92Z" transform="translate(-290 -1982)"/>
+    <path class="cls-5" d="M1284.9,2146.06a8.661,8.661,0,1,1,8.64,8.5A8.628,8.628,0,0,1,1284.9,2146.06Zm34.64-.07a8.661,8.661,0,1,1,8.64,8.5A8.635,8.635,0,0,1,1319.54,2145.99Zm34.64-.07a8.661,8.661,0,1,1,8.65,8.5A8.635,8.635,0,0,1,1354.18,2145.92Z" transform="translate(-290 -1982)"/>
+    <path class="cls-5" d="M1010.96,2146.06a8.661,8.661,0,1,1,8.64,8.5A8.628,8.628,0,0,1,1010.96,2146.06Zm34.64-.07a8.661,8.661,0,1,1,8.64,8.5A8.628,8.628,0,0,1,1045.6,2145.99Zm34.64-.07a8.661,8.661,0,1,1,8.64,8.5A8.635,8.635,0,0,1,1080.24,2145.92Z" transform="translate(-290 -1982)"/>
+    <path class="cls-5" d="M733.2,2146.06a8.662,8.662,0,1,1,8.643,8.5A8.631,8.631,0,0,1,733.2,2146.06Zm34.643-.07a8.662,8.662,0,1,1,8.642,8.5A8.631,8.631,0,0,1,767.841,2145.99Zm34.642-.07a8.662,8.662,0,1,1,8.643,8.5A8.632,8.632,0,0,1,802.483,2145.92Z" transform="translate(-290 -1982)"/>
+    <path class="cls-5" d="M459.257,2146.06a8.662,8.662,0,1,1,8.643,8.5A8.632,8.632,0,0,1,459.257,2146.06Zm34.643-.07a8.662,8.662,0,1,1,8.643,8.5A8.631,8.631,0,0,1,493.9,2145.99Zm34.642-.07a8.662,8.662,0,1,1,8.643,8.5A8.632,8.632,0,0,1,528.542,2145.92Z" transform="translate(-290 -1982)"/>
+  </g>
+</svg>

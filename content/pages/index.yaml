@@ -1,0 +1,8 @@
+$title@: Resource Recon
+$path: /
+$view: /views/pages/index.html
+$localization:
+  path: /intl/{locale}/
+  default_locale: en_US
+meta@: Resource Recon
+id@: Resource Recon

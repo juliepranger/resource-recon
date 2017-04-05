@@ -1,0 +1,16 @@
+<svg id="bullet_1_2x.svg_50_bullet_1.svg" data-name="bullet_1_2x.svg, 50% bullet_1.svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cad8dc;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="28" cy="28" r="28"/>
+  <path id="_1" data-name="1" class="cls-2" d="M1302.58,892.461l-10.33.914V897h5.2v21.059h5.13V892.461Z" transform="translate(-1271 -878)"/>
+</svg>

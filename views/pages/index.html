@@ -1,0 +1,24 @@
+{% extends "/views/base.html"%}
+
+{% block main %}
+  <main ui-view ng-cloak ng-controller="MainController as MainController">
+    <div class="col-md-6">
+        <h2>Harvest Entries</h2>
+
+        <ul>
+            <li ng-repeat="entry in MainController.harvestData">
+                <div harvest-entry></div>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <h2>Forecast Entries</h2>
+        <ul>
+            <li ng-repeat="entry in MainController.forecastData">
+                <div forecast-entry></div>
+            </li>
+        </ul>
+    </div>
+  </main>
+  </div>
+{% endblock %}

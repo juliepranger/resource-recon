@@ -1,0 +1,578 @@
+[
+    {
+        "project": "Time Off",
+        "projectLabel": "black",
+        "person": "David Hirotsu",
+        "teamTags": "Design",
+        "undefined": 24
+    },
+    {
+        "project": "Time Off",
+        "projectLabel": "black",
+        "person": "Piper Black",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 8
+    },
+    {
+        "project": "Time Off",
+        "projectLabel": "black",
+        "person": "Robin Gist",
+        "teamTags": "BE Dev, Dev, socal-dev",
+        "undefined": 4
+    },
+    {
+        "project": "Time Off",
+        "projectLabel": "black",
+        "person": "Sebastian Lemery",
+        "teamTags": "BE Dev, Dev, socal-dev",
+        "undefined": 8
+    },
+    {
+        "client": "Android - Google, Inc.",
+        "project": "Seahorse 2.0 - Phone Picker Site",
+        "projectCode": "GGL-0116-002",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Blair Giles",
+        "teamTags": "Dev, QA, socal-dev",
+        "undefined": 6
+    },
+    {
+        "client": "CrushBank",
+        "project": "3D Cube Development",
+        "projectCode": "CSB-1016-003",
+        "projectLabel": "orange",
+        "person": "Blair Giles",
+        "teamTags": "Dev, QA, socal-dev",
+        "undefined": 2
+    },
+    {
+        "client": "CrushBank",
+        "project": "3D Cube Development",
+        "projectCode": "CSB-1016-003",
+        "projectLabel": "orange",
+        "person": "Tom Slezakowski",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 1
+    },
+    {
+        "client": "Google Inc",
+        "project": "Area 120",
+        "projectCode": "GLG-0916-009",
+        "projectLabel": "magenta",
+        "projectTags": "stephanie",
+        "person": "Blair Giles",
+        "teamTags": "Dev, QA, socal-dev",
+        "undefined": 2
+    },
+    {
+        "client": "Google Inc",
+        "project": "Area 120",
+        "projectCode": "GLG-0916-009",
+        "projectLabel": "magenta",
+        "projectTags": "stephanie",
+        "person": "Tom Slezakowski",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 1
+    },
+    {
+        "client": "Google Inc",
+        "project": "Area 120: Web App Maintenance Q1",
+        "projectCode": "GLG-0117-001",
+        "projectLabel": "blue",
+        "person": "Jack Connor",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 4
+    },
+    {
+        "client": "Google Inc",
+        "project": "Area 120: Web App Maintenance Q1",
+        "projectCode": "GLG-0117-001",
+        "projectLabel": "blue",
+        "person": "Sebastian Lemery",
+        "teamTags": "BE Dev, Dev, socal-dev",
+        "undefined": 4
+    },
+    {
+        "client": "Google Inc",
+        "project": "Atmo: CMS Redesign",
+        "projectCode": "GLG-0516-002",
+        "projectLabel": "aqua",
+        "person": "Ian Lollar",
+        "teamTags": "BE Dev",
+        "undefined": 9
+    },
+    {
+        "client": "Google Inc",
+        "project": "Atmo: CMS Redesign",
+        "projectCode": "GLG-0516-002",
+        "projectLabel": "aqua",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 5
+    },
+    {
+        "client": "Google Inc",
+        "project": "Atmo: CMS Redesign",
+        "projectCode": "GLG-0516-002",
+        "projectLabel": "aqua",
+        "person": "Stephen Cave",
+        "undefined": 5
+    },
+    {
+        "client": "Google Inc",
+        "project": "Atmo: Horizon",
+        "projectCode": "GLG-0516-003",
+        "projectLabel": "aqua",
+        "person": "Ian Lollar",
+        "teamTags": "BE Dev",
+        "undefined": 9
+    },
+    {
+        "client": "Google Inc",
+        "project": "Atmo: Horizon",
+        "projectCode": "GLG-0516-003",
+        "projectLabel": "aqua",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 5
+    },
+    {
+        "client": "Google Inc",
+        "project": "Atmo: Horizon",
+        "projectCode": "GLG-0516-003",
+        "projectLabel": "aqua",
+        "person": "Stephen Cave",
+        "undefined": 5
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: 2017 Next Digital - Tokyo & London",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Blair Giles",
+        "teamTags": "Dev, QA, socal-dev",
+        "undefined": 4
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: 2017 Next Digital - Tokyo & London",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Heejin Park",
+        "teamTags": "Design",
+        "undefined": 12
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: 2017 Next Digital - Tokyo & London",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Ian Lollar",
+        "teamTags": "BE Dev",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: 2017 Next Digital - Tokyo & London",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: 2017 Next Digital - Tokyo & London",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Stephen Cave",
+        "undefined": 30
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: GCP Education Series",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Ian Lollar",
+        "teamTags": "BE Dev",
+        "undefined": 3
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: GCP Education Series",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 8
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: Q1'17 Platform enhancements",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Heejin Park",
+        "teamTags": "Design",
+        "undefined": 16
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: Q1'17 Platform enhancements",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Ian Lollar",
+        "teamTags": "BE Dev",
+        "undefined": 9
+    },
+    {
+        "client": "Google Inc",
+        "project": "Gather: Q1'17 Platform enhancements",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Google NBU Paisa",
+        "projectCode": "GLG-0216-018",
+        "projectLabel": "blue",
+        "person": "Greg Dodds",
+        "teamTags": "Design",
+        "undefined": 4
+    },
+    {
+        "client": "Google Inc",
+        "project": "Google Retail - On Device Demo Concept",
+        "projectCode": "GLG-0117-017",
+        "projectLabel": "orange",
+        "person": "Tom Slezakowski",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 37
+    },
+    {
+        "client": "Google Inc",
+        "project": "Jibe Docs",
+        "projectCode": "GLG-0916-002",
+        "projectLabel": "purple",
+        "projectTags": "Rob",
+        "person": "Julie Pranger",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Jibe Docs",
+        "projectCode": "GLG-0916-002",
+        "projectLabel": "purple",
+        "projectTags": "Rob",
+        "person": "Les Cheong",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Open Source - PROJECT",
+        "projectCode": "GLG-0916-003",
+        "projectLabel": "magenta",
+        "projectTags": "stephanie",
+        "person": "Blair Giles",
+        "teamTags": "Dev, QA, socal-dev",
+        "undefined": 4
+    },
+    {
+        "client": "Google Inc",
+        "project": "Play - Research Hub",
+        "projectCode": "GLG-0916-004",
+        "projectLabel": "magenta",
+        "projectTags": "stephanie",
+        "person": "Jack Connor",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Play - Research Hub",
+        "projectCode": "GLG-0916-004",
+        "projectLabel": "magenta",
+        "projectTags": "stephanie",
+        "person": "Sebastian Lemery",
+        "teamTags": "BE Dev, Dev, socal-dev",
+        "undefined": 5
+    },
+    {
+        "client": "Google Inc",
+        "project": "Project Karma",
+        "projectCode": "GLG-0117-016",
+        "projectLabel": "blue",
+        "person": "Christine Yu",
+        "teamTags": "Design",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "Project Karma",
+        "projectCode": "GLG-0117-016",
+        "projectLabel": "blue",
+        "person": "David Hirotsu",
+        "teamTags": "Design",
+        "undefined": 2
+    },
+    {
+        "client": "Google Inc",
+        "project": "Project Karma",
+        "projectCode": "GLG-0117-016",
+        "projectLabel": "blue",
+        "person": "Dev Freelancer",
+        "teamTags": "BE Dev, FE Dev",
+        "undefined": 30
+    },
+    {
+        "client": "Google Inc",
+        "project": "Project Karma",
+        "projectCode": "GLG-0117-016",
+        "projectLabel": "blue",
+        "person": "Shane Zucker",
+        "undefined": 20
+    },
+    {
+        "client": "Google Inc",
+        "project": "Shopping Express",
+        "projectCode": "GLG-0217-018",
+        "projectLabel": "orange",
+        "person": "Jack Connor",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 10
+    },
+    {
+        "client": "Google Inc",
+        "project": "VR Q1 Web Maintenance",
+        "projectCode": "GLG-0117-015",
+        "projectLabel": "blue",
+        "person": "Blair Giles",
+        "teamTags": "Dev, QA, socal-dev",
+        "undefined": 2
+    },
+    {
+        "client": "Google Inc",
+        "project": "VR Q1 Web Maintenance",
+        "projectCode": "GLG-0117-015",
+        "projectLabel": "blue",
+        "person": "Celina Frelinghuysen",
+        "teamTags": "Design",
+        "undefined": 3
+    },
+    {
+        "client": "Google Inc",
+        "project": "VR Q1 Web Maintenance",
+        "projectCode": "GLG-0117-015",
+        "projectLabel": "blue",
+        "person": "Piper Black",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 16
+    },
+    {
+        "client": "Hi-Q",
+        "project": "HiQ Robotics Video",
+        "projectCode": "HiQ-0317-001",
+        "projectLabel": "orange",
+        "person": "Shane Zucker",
+        "undefined": 12
+    },
+    {
+        "client": "LFL - Admin and Internal",
+        "project": "Atmo: Account Management 2016",
+        "projectCode": "LFL-0116-002",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 5
+    },
+    {
+        "client": "LFL - Admin and Internal",
+        "project": "Business Development",
+        "projectCode": "LFL-0116-006",
+        "projectLabel": "orange",
+        "person": "Greg Dodds",
+        "teamTags": "Design",
+        "undefined": 5
+    },
+    {
+        "client": "LFL - Admin and Internal",
+        "project": "LFL Internal",
+        "projectCode": "LFL-0116-005",
+        "projectLabel": "orange",
+        "person": "Greg Dodds",
+        "teamTags": "Design",
+        "undefined": 10
+    },
+    {
+        "client": "LFL - Internal Projects",
+        "project": "Gather: Product Promo Site",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Heejin Park",
+        "teamTags": "Design",
+        "undefined": 12
+    },
+    {
+        "client": "LFL - Internal Projects",
+        "project": "Gather: Product Promo Site",
+        "projectLabel": "aqua",
+        "projectTags": "Natanya",
+        "person": "Natanya Marks",
+        "teamTags": "Producer",
+        "undefined": 5
+    },
+    {
+        "client": "LFL - Internal Projects",
+        "project": "LFL Email Blast",
+        "projectLabel": "orange",
+        "person": "Julie Pranger",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 9
+    },
+    {
+        "client": "LFL - Internal Projects",
+        "project": "LFL Website Refresh 2017",
+        "projectCode": "LFL-0317-001",
+        "projectLabel": "orange",
+        "person": "Greg Dodds",
+        "teamTags": "Design",
+        "undefined": 8
+    },
+    {
+        "client": "LFL - Internal Projects",
+        "project": "Story of LFL Animation",
+        "projectCode": "LFL-0317-005",
+        "projectLabel": "orange",
+        "person": "Shane Zucker",
+        "undefined": 1
+    },
+    {
+        "client": "LFL - PITCHES AND PROPOSALS",
+        "project": "OPPO Pixel Retail Training Pitch",
+        "projectCode": "LFL-0317-004",
+        "projectLabel": "orange",
+        "person": "David Hirotsu",
+        "teamTags": "Design",
+        "undefined": 6
+    },
+    {
+        "client": "LFL - PITCHES AND PROPOSALS",
+        "project": "OPPO State of Play",
+        "projectLabel": "gray",
+        "person": "Christine Yu",
+        "teamTags": "Design",
+        "undefined": 4
+    },
+    {
+        "client": "LFL - PITCHES AND PROPOSALS",
+        "project": "Pitch - Google Retail Training",
+        "projectLabel": "gray",
+        "person": "Greg Dodds",
+        "teamTags": "Design",
+        "undefined": 32
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - SVOD Discovery & Production (Beta +)",
+        "projectCode": "TIU-0317-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Celina Frelinghuysen",
+        "teamTags": "Design",
+        "undefined": 4
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Celina Frelinghuysen",
+        "teamTags": "Design",
+        "undefined": 20
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Clarissa Murphy",
+        "teamTags": "Producer",
+        "undefined": 40
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Dev Freelancer",
+        "teamTags": "BE Dev, FE Dev",
+        "undefined": 80
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Greg Dodds",
+        "teamTags": "Design",
+        "undefined": 1.35
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Les Cheong",
+        "undefined": 5
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Michelle Matthews",
+        "teamTags": "Freelance, UX",
+        "undefined": 16
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Piper Black",
+        "teamTags": "Dev, FE Dev, socal-dev",
+        "undefined": 13
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Robin Gist",
+        "teamTags": "BE Dev, Dev, socal-dev",
+        "undefined": 36
+    },
+    {
+        "client": "Tone It Up, LLC",
+        "project": "Tone It Up - TestFlight Production (Alpha +)",
+        "projectCode": "TIU-1116-001",
+        "projectLabel": "green",
+        "projectTags": "Clarissa",
+        "person": "Sebastian Lemery",
+        "teamTags": "BE Dev, Dev, socal-dev",
+        "undefined": 23
+    }
+]

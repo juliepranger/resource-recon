@@ -1,0 +1,27 @@
+grow_version: ">=0.0.60"
+home: /content/pages/home.yaml
+root: ""
+
+localization:
+  default_locale: en
+
+title@: Resource Recon
+
+static_dirs:
+- static_dir: /source/images/
+  serve_at: /static/images/
+- static_dir: /source/partials/
+  serve_at: /static/partials/
+- static_dir: /source/js/
+  serve_at: /source/js/
+- static_dir: /source/data/
+  serve_at: /static/data/
+- static_dir: /source/sass/
+  serve_at: /static/sass/
+- static_dir: /dist/
+  serve_at: /static/
+
+preprocessors:
+- kind: gulp
+  build_task: "build"
+  run_task: "default"
