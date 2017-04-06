@@ -45,7 +45,7 @@ module.exports = ResourceRecon.controllers.MainController;
 
 ResourceRecon.controllers.MainController.prototype.getHarvestData = function() {
     this.API.getHarvestData().then(function(response) {
-        console.log('response: ', response.data);
+        console.log('harvest response: ', response.data);
         this.harvestData = response.data;
     }.bind(this));
 };
@@ -53,7 +53,7 @@ ResourceRecon.controllers.MainController.prototype.getHarvestData = function() {
 
 ResourceRecon.controllers.MainController.prototype.getForecastData = function() {
     this.API.getForecastData().then(function(response) {
-        console.log('response: ', response.data);
+        console.log('forecast response: ', response.data);
         this.forecastData = response.data;
     }.bind(this));
 };

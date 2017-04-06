@@ -20,7 +20,7 @@ ResourceRecon.directives = ResourceRecon.directives || {};
  **/
 ResourceRecon.directives.forecastEntry = function() {
   return {
-    template: 'Entry: <div>{[entry]}</div>'
+    templateUrl: 'static/partials/forecast-entry.html'
   };
 };
 

@@ -4,28 +4,28 @@
         "projectLabel": "black",
         "person": "David Hirotsu",
         "teamTags": "Design",
-        "undefined": 24
+        "hours": 24
     },
     {
         "project": "Time Off",
         "projectLabel": "black",
         "person": "Piper Black",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 8
+        "hours": 8
     },
     {
         "project": "Time Off",
         "projectLabel": "black",
         "person": "Robin Gist",
         "teamTags": "BE Dev, Dev, socal-dev",
-        "undefined": 4
+        "hours": 4
     },
     {
         "project": "Time Off",
         "projectLabel": "black",
         "person": "Sebastian Lemery",
         "teamTags": "BE Dev, Dev, socal-dev",
-        "undefined": 8
+        "hours": 8
     },
     {
         "client": "Android - Google, Inc.",
@@ -35,7 +35,7 @@
         "projectTags": "Clarissa",
         "person": "Blair Giles",
         "teamTags": "Dev, QA, socal-dev",
-        "undefined": 6
+        "hours": 6
     },
     {
         "client": "CrushBank",
@@ -44,7 +44,7 @@
         "projectLabel": "orange",
         "person": "Blair Giles",
         "teamTags": "Dev, QA, socal-dev",
-        "undefined": 2
+        "hours": 2
     },
     {
         "client": "CrushBank",
@@ -53,7 +53,7 @@
         "projectLabel": "orange",
         "person": "Tom Slezakowski",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 1
+        "hours": 1
     },
     {
         "client": "Google Inc",
@@ -63,7 +63,7 @@
         "projectTags": "stephanie",
         "person": "Blair Giles",
         "teamTags": "Dev, QA, socal-dev",
-        "undefined": 2
+        "hours": 2
     },
     {
         "client": "Google Inc",
@@ -73,7 +73,7 @@
         "projectTags": "stephanie",
         "person": "Tom Slezakowski",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 1
+        "hours": 1
     },
     {
         "client": "Google Inc",
@@ -82,7 +82,7 @@
         "projectLabel": "blue",
         "person": "Jack Connor",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "Google Inc",
@@ -91,7 +91,7 @@
         "projectLabel": "blue",
         "person": "Sebastian Lemery",
         "teamTags": "BE Dev, Dev, socal-dev",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "Google Inc",
@@ -100,7 +100,7 @@
         "projectLabel": "aqua",
         "person": "Ian Lollar",
         "teamTags": "BE Dev",
-        "undefined": 9
+        "hours": 9
     },
     {
         "client": "Google Inc",
@@ -109,7 +109,7 @@
         "projectLabel": "aqua",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "Google Inc",
@@ -117,7 +117,7 @@
         "projectCode": "GLG-0516-002",
         "projectLabel": "aqua",
         "person": "Stephen Cave",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "Google Inc",
@@ -126,7 +126,7 @@
         "projectLabel": "aqua",
         "person": "Ian Lollar",
         "teamTags": "BE Dev",
-        "undefined": 9
+        "hours": 9
     },
     {
         "client": "Google Inc",
@@ -135,7 +135,7 @@
         "projectLabel": "aqua",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "Google Inc",
@@ -143,7 +143,7 @@
         "projectCode": "GLG-0516-003",
         "projectLabel": "aqua",
         "person": "Stephen Cave",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "Google Inc",
@@ -152,7 +152,7 @@
         "projectTags": "Natanya",
         "person": "Blair Giles",
         "teamTags": "Dev, QA, socal-dev",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "Google Inc",
@@ -161,7 +161,7 @@
         "projectTags": "Natanya",
         "person": "Heejin Park",
         "teamTags": "Design",
-        "undefined": 12
+        "hours": 12
     },
     {
         "client": "Google Inc",
@@ -170,7 +170,7 @@
         "projectTags": "Natanya",
         "person": "Ian Lollar",
         "teamTags": "BE Dev",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -179,7 +179,7 @@
         "projectTags": "Natanya",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -187,7 +187,7 @@
         "projectLabel": "aqua",
         "projectTags": "Natanya",
         "person": "Stephen Cave",
-        "undefined": 30
+        "hours": 30
     },
     {
         "client": "Google Inc",
@@ -196,7 +196,7 @@
         "projectTags": "Natanya",
         "person": "Ian Lollar",
         "teamTags": "BE Dev",
-        "undefined": 3
+        "hours": 3
     },
     {
         "client": "Google Inc",
@@ -205,7 +205,7 @@
         "projectTags": "Natanya",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 8
+        "hours": 8
     },
     {
         "client": "Google Inc",
@@ -214,7 +214,7 @@
         "projectTags": "Natanya",
         "person": "Heejin Park",
         "teamTags": "Design",
-        "undefined": 16
+        "hours": 16
     },
     {
         "client": "Google Inc",
@@ -223,7 +223,7 @@
         "projectTags": "Natanya",
         "person": "Ian Lollar",
         "teamTags": "BE Dev",
-        "undefined": 9
+        "hours": 9
     },
     {
         "client": "Google Inc",
@@ -232,7 +232,7 @@
         "projectTags": "Natanya",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -241,7 +241,7 @@
         "projectLabel": "blue",
         "person": "Greg Dodds",
         "teamTags": "Design",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "Google Inc",
@@ -250,7 +250,7 @@
         "projectLabel": "orange",
         "person": "Tom Slezakowski",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 37
+        "hours": 37
     },
     {
         "client": "Google Inc",
@@ -260,7 +260,7 @@
         "projectTags": "Rob",
         "person": "Julie Pranger",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -269,7 +269,7 @@
         "projectLabel": "purple",
         "projectTags": "Rob",
         "person": "Les Cheong",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -279,7 +279,7 @@
         "projectTags": "stephanie",
         "person": "Blair Giles",
         "teamTags": "Dev, QA, socal-dev",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "Google Inc",
@@ -289,7 +289,7 @@
         "projectTags": "stephanie",
         "person": "Jack Connor",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -299,7 +299,7 @@
         "projectTags": "stephanie",
         "person": "Sebastian Lemery",
         "teamTags": "BE Dev, Dev, socal-dev",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "Google Inc",
@@ -308,7 +308,7 @@
         "projectLabel": "blue",
         "person": "Christine Yu",
         "teamTags": "Design",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -317,7 +317,7 @@
         "projectLabel": "blue",
         "person": "David Hirotsu",
         "teamTags": "Design",
-        "undefined": 2
+        "hours": 2
     },
     {
         "client": "Google Inc",
@@ -326,7 +326,7 @@
         "projectLabel": "blue",
         "person": "Dev Freelancer",
         "teamTags": "BE Dev, FE Dev",
-        "undefined": 30
+        "hours": 30
     },
     {
         "client": "Google Inc",
@@ -334,7 +334,7 @@
         "projectCode": "GLG-0117-016",
         "projectLabel": "blue",
         "person": "Shane Zucker",
-        "undefined": 20
+        "hours": 20
     },
     {
         "client": "Google Inc",
@@ -343,7 +343,7 @@
         "projectLabel": "orange",
         "person": "Jack Connor",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "Google Inc",
@@ -352,7 +352,7 @@
         "projectLabel": "blue",
         "person": "Blair Giles",
         "teamTags": "Dev, QA, socal-dev",
-        "undefined": 2
+        "hours": 2
     },
     {
         "client": "Google Inc",
@@ -361,7 +361,7 @@
         "projectLabel": "blue",
         "person": "Celina Frelinghuysen",
         "teamTags": "Design",
-        "undefined": 3
+        "hours": 3
     },
     {
         "client": "Google Inc",
@@ -370,7 +370,7 @@
         "projectLabel": "blue",
         "person": "Piper Black",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 16
+        "hours": 16
     },
     {
         "client": "Hi-Q",
@@ -378,7 +378,7 @@
         "projectCode": "HiQ-0317-001",
         "projectLabel": "orange",
         "person": "Shane Zucker",
-        "undefined": 12
+        "hours": 12
     },
     {
         "client": "LFL - Admin and Internal",
@@ -388,7 +388,7 @@
         "projectTags": "Natanya",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "LFL - Admin and Internal",
@@ -397,7 +397,7 @@
         "projectLabel": "orange",
         "person": "Greg Dodds",
         "teamTags": "Design",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "LFL - Admin and Internal",
@@ -406,7 +406,7 @@
         "projectLabel": "orange",
         "person": "Greg Dodds",
         "teamTags": "Design",
-        "undefined": 10
+        "hours": 10
     },
     {
         "client": "LFL - Internal Projects",
@@ -415,7 +415,7 @@
         "projectTags": "Natanya",
         "person": "Heejin Park",
         "teamTags": "Design",
-        "undefined": 12
+        "hours": 12
     },
     {
         "client": "LFL - Internal Projects",
@@ -424,7 +424,7 @@
         "projectTags": "Natanya",
         "person": "Natanya Marks",
         "teamTags": "Producer",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "LFL - Internal Projects",
@@ -432,7 +432,7 @@
         "projectLabel": "orange",
         "person": "Julie Pranger",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 9
+        "hours": 9
     },
     {
         "client": "LFL - Internal Projects",
@@ -441,7 +441,7 @@
         "projectLabel": "orange",
         "person": "Greg Dodds",
         "teamTags": "Design",
-        "undefined": 8
+        "hours": 8
     },
     {
         "client": "LFL - Internal Projects",
@@ -449,7 +449,7 @@
         "projectCode": "LFL-0317-005",
         "projectLabel": "orange",
         "person": "Shane Zucker",
-        "undefined": 1
+        "hours": 1
     },
     {
         "client": "LFL - PITCHES AND PROPOSALS",
@@ -458,7 +458,7 @@
         "projectLabel": "orange",
         "person": "David Hirotsu",
         "teamTags": "Design",
-        "undefined": 6
+        "hours": 6
     },
     {
         "client": "LFL - PITCHES AND PROPOSALS",
@@ -466,7 +466,7 @@
         "projectLabel": "gray",
         "person": "Christine Yu",
         "teamTags": "Design",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "LFL - PITCHES AND PROPOSALS",
@@ -474,7 +474,7 @@
         "projectLabel": "gray",
         "person": "Greg Dodds",
         "teamTags": "Design",
-        "undefined": 32
+        "hours": 32
     },
     {
         "client": "Tone It Up, LLC",
@@ -484,7 +484,7 @@
         "projectTags": "Clarissa",
         "person": "Celina Frelinghuysen",
         "teamTags": "Design",
-        "undefined": 4
+        "hours": 4
     },
     {
         "client": "Tone It Up, LLC",
@@ -494,7 +494,7 @@
         "projectTags": "Clarissa",
         "person": "Celina Frelinghuysen",
         "teamTags": "Design",
-        "undefined": 20
+        "hours": 20
     },
     {
         "client": "Tone It Up, LLC",
@@ -504,7 +504,7 @@
         "projectTags": "Clarissa",
         "person": "Clarissa Murphy",
         "teamTags": "Producer",
-        "undefined": 40
+        "hours": 40
     },
     {
         "client": "Tone It Up, LLC",
@@ -514,7 +514,7 @@
         "projectTags": "Clarissa",
         "person": "Dev Freelancer",
         "teamTags": "BE Dev, FE Dev",
-        "undefined": 80
+        "hours": 80
     },
     {
         "client": "Tone It Up, LLC",
@@ -524,7 +524,7 @@
         "projectTags": "Clarissa",
         "person": "Greg Dodds",
         "teamTags": "Design",
-        "undefined": 1.35
+        "hours": 1.35
     },
     {
         "client": "Tone It Up, LLC",
@@ -533,7 +533,7 @@
         "projectLabel": "green",
         "projectTags": "Clarissa",
         "person": "Les Cheong",
-        "undefined": 5
+        "hours": 5
     },
     {
         "client": "Tone It Up, LLC",
@@ -543,7 +543,7 @@
         "projectTags": "Clarissa",
         "person": "Michelle Matthews",
         "teamTags": "Freelance, UX",
-        "undefined": 16
+        "hours": 16
     },
     {
         "client": "Tone It Up, LLC",
@@ -553,7 +553,7 @@
         "projectTags": "Clarissa",
         "person": "Piper Black",
         "teamTags": "Dev, FE Dev, socal-dev",
-        "undefined": 13
+        "hours": 13
     },
     {
         "client": "Tone It Up, LLC",
@@ -563,7 +563,7 @@
         "projectTags": "Clarissa",
         "person": "Robin Gist",
         "teamTags": "BE Dev, Dev, socal-dev",
-        "undefined": 36
+        "hours": 36
     },
     {
         "client": "Tone It Up, LLC",
@@ -573,6 +573,6 @@
         "projectTags": "Clarissa",
         "person": "Sebastian Lemery",
         "teamTags": "BE Dev, Dev, socal-dev",
-        "undefined": 23
+        "hours": 23
     }
 ]

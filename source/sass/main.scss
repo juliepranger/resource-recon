@@ -1,1 +1,20 @@
+ul li {
+    list-style-type: none;
+    box-sizing: border-box;
+    margin: 1% 0;
+    width: 100%;
+}
 
+.entry {
+  padding: 10px;
+}
+
+.entry-harvest {
+    background-color: orange;
+    color: #fff;
+}
+
+.entry-forecast {
+    background-color: purple;
+    color: #fff;
+}

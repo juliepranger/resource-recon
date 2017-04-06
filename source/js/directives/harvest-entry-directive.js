@@ -20,7 +20,7 @@ ResourceRecon.directives = ResourceRecon.directives || {};
  **/
 ResourceRecon.directives.harvestEntry = function() {
   return {
-    template: 'Entry: <div>{[entry]}</div>'
+    templateUrl: 'static/partials/harvest-entry.html'
   };
 };
 
